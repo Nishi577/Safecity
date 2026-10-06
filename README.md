@@ -237,6 +237,7 @@ Then open a Pull Request.
 ## 👩‍💻 Author
 
 **Nishi Shah**
+**Harshil Turakhia**
 
 GitHub: [@Nishi577](https://github.com/Nishi577)
 
